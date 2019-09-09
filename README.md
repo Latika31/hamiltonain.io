@@ -1,1 +1,1 @@
-# haunted.io
+# hamiltonian.io
